@@ -47,9 +47,6 @@ public class MainViewController implements Initializable {
 		loadView("/gui/About.fxml", x -> {});
 	}
 	
-	
-	
-	
 	@Override
 	public void initialize(URL uri, ResourceBundle rb) {
 	}
